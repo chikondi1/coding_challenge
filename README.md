@@ -6,9 +6,6 @@ NDVI stands for normalized difference vegetation index, which is a reflectance-b
 
 The outputs in this repository were made using the tutorial found at the MODIS NDVI Times Series Animation tutorial on the GEE community web site: https://developers.google.com/earth-engine/tutorials/community/modis-ndvi-time-series-animation#2_define_clipping_and_region_boundary_geometries and the code can be found in chikondi_malawi_gee.js
 
-> ![Here](coding_challenge/chikondi_malawi_gee.js)
-
-
 > ![NDVI Animation of Malawi](images/chikondi_malawi_gee.gif)
 
 

@@ -1,4 +1,4 @@
-# First Visualization and Analysis in GEE
+# Visualization and Analysis in Google Earth Enginge (GEE)
 
 The GIF shows NDVI data from a MODIS composite of Malawi. Malawi is a small, landlocked country located in southern Africa. It is home to the third largest lake in Africa, Lake Malawi, and  The coutnry has a tropical climate and its vegetation consists of mostly savannah woodland and forests.
 
